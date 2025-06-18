@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Mehta
 
-<!--
-**yashm13114/yashm13114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | MERN Stack  
+🚀 Building scalable web apps  
+🎯 100+ DSA problems solved on LeetCode  
+🔗 Exploring Blockchain Development & Smart Contracts  
+📫 Let's connect: [Portfolio](https://my-portfolio-kappa-roan-96.vercel.app) | [Instagram](https://instagram.com/yashmehta2004)
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Frontend**: React, Next.js, Tailwind, Bootstrap  
+**Backend**: Node.js, Express.js  
+**Database**: MongoDB, Firebase, SQL  
+**Blockchain**: Solidity, Ethereum, Smart Contracts  
+**Languages**: Java, C, JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🏗️ **CrowdFunding** – A smart contract-based crowdfunding platform  
+- 🍔 **QuickBite** – A food delivery web app  
+- 🛒 **ShopCart-Ecommerce** – An ecommerce shopping cart system  
+
+---
+> I'm passionate about building impactful digital experiences and always open to new opportunities!
