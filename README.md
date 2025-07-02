@@ -1,54 +1,66 @@
-<h1 align="center">Heyy 👋, I'm Yash Mehta</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&width=435&lines=Heyy+%F0%9F%91%8B%2C+I'm+Yash+Mehta;" alt="Typing SVG" />
+</h1>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,solidity,js,java,c,express,tailwind,git,firebase,vercel" /><br/>
   💻 Full Stack Developer | 🧠 DSA Enthusiast | 🌐 Blockchain Explorer | 🎯 Problem Solver <br/>
-  <em>Building impactful digital solutions across Web2 & Web3 ecosystems</em>
+  <em>Crafting impact across Web2 & Web3 with modern tech</em>
 </p>
 
 ---
 
-🏆 **Stats & Achievements**
+## 🧠 About Me
+Hi! I'm **Yash Mehta**, a passionate Full Stack Developer with a flair for clean UI, robust backend systems, and emerging Web3 tech. Whether it's writing smart contracts or solving complex DSA problems — I enjoy making tech *simple and impactful*.
+
+---
+
+## 🛠️ Skills & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,c,react,nextjs,nodejs,express,mongodb,firebase,solidity,html,css,tailwind,bootstrap,postman,git,github,vscode" />
+</div>
+
+---
+
+## 🚀 What I Do
+
+- ⚙️ **Full Stack Development** – Scalable, secure, and responsive apps using the MERN stack  
+- 🔐 **Blockchain Developer** – Smart contracts with Solidity & Ethereum  
+- 🔧 **DSA Explorer** – Solved 100+ problems on LeetCode  
+- 🧪 **Always Exploring** – Currently learning AI x Blockchain integrations  
+
+---
+
+## 🏆 Stats & Achievements
+
 <p align="center">
   <img src="https://img.shields.io/badge/Repositories-45-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Commits-1000+-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LeetCode-100%2B%20problems-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Web3-Exploring-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Commits-1000%2B-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-100%2B-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web3-Explorer-lightgrey?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
-Hi! I'm **Yash Mehta**, a passionate developer crafting seamless experiences with MERN stack technologies and exploring the decentralized world of **Blockchain** and **Smart Contracts**.
+## 🌟 Featured Projects
 
-I enjoy turning ideas into scalable apps and helping others through open-source and tech education.
-
----
-
-## 🧩 What I Do
-
-- ⚙️ **Full Stack Development** – Creating scalable and responsive apps with React, Node.js & MongoDB.
-- 🔐 **Blockchain Developer** – Smart contract creation with Solidity and Ethereum.
-- 🔧 **DSA Explorer** – Solved over 100+ problems on LeetCode to sharpen problem-solving skills.
-- 🎯 **Tech Enthusiast** – Always learning, building, and improving!
+| Project | Tech Stack | Description |
+|--------|-------------|-------------|
+| 🏗️ [**CrowdFunding (Web3)**](#) | `Solidity`, `Ethereum`, `React`, `Remix IDE` | A decentralized platform enabling transparent fundraising. |
+| 🍔 [**QuickBite**](#) | `React`, `Node`, `MongoDB` | Seamless food ordering app with real-time cart and orders. |
+| 🛒 [**ShopCart-Ecommerce**](#) | `MERN`, `Tailwind`, `Express` | Full-featured e-commerce site with admin and product controls. |
 
 ---
 
-## 🧠 Skills & Tools
+## 📊 GitHub Stats
 
-- **Frontend**: React.js, Next.js, Tailwind CSS, Bootstrap  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB, Firebase, SQL  
-- **Blockchain**: Solidity, Ethereum, Smart Contracts  
-- **Languages**: JavaScript, Java, C  
-- **Tools**: Git, Vercel, Postman, VS Code, Remix IDE
-
----
-
-## 📌 Featured Projects
-
-- 🏗️ **CrowdFunding** – A smart contract-powered crowdfunding platform (Web3)
-- 🍔 **QuickBite** – A seamless food delivery web app with cart, order, and user flows
-- 🛒 **ShopCart-Ecommerce** – A complete e-commerce solution with cart and product management
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashmehta2004&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashmehta2004&theme=tokyonight" height="180"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yashmehta2004&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
@@ -62,17 +74,24 @@ I enjoy turning ideas into scalable apps and helping others through open-source 
 
 ---
 
-## ⚡ Fun Facts
+## 🎨 3D & Interactive Visuals
 
-- 💡 I mix creativity with logic to build modern user-first solutions.
-- 🤝 Always up for collaboration and hackathons!
-- 🧪 Exploring AI + Web3 integration is on my 2025 roadmap.
+<p align="center">
+  <img src="https://github.com/yashmehta2004/yashmehta2004/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Fun Facts
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashmehta2004&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashmehta2004&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+- 🎯 Logic meets creativity in everything I build  
+- 🤝 Hackathon lover & team player  
+- 🌱 2025 Goals: AI x Web3 integration  
+
+---
+
+> ⚙️ *"Code. Contribute. Connect."*  
+> Let’s **build the future** together.
+
