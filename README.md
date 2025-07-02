@@ -73,10 +73,12 @@ Hi! I'm **Yash Mehta**, a passionate Full Stack Developer with a flair for clean
 
 ---
 
-## 🌐 3D Contribution Globe
+## 🎨 3D & Interactive Visuals
 
 <p align="center">
-  <a href="https://github-contributions.vercel.app/api/yashmehta2004"><img src="https://github-contributions.vercel.app/api/yashmehta2004" alt="3D Contribution Globe" /></a>
+  <img src="https://github.com/yashmehta2004/yashmehta2004/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
 </p>
 
 ---
