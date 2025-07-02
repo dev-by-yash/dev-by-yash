@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,solidity,js,java,c,express,tailwind,git,firebase,vercel" /><br/>
   💻 Full Stack Developer | 🧠 DSA Enthusiast | 🌐 Blockchain Explorer | 🎯 Problem Solver <br/>
   <em>Crafting impact across Web2 & Web3 with modern tech</em>
 </p>
@@ -74,12 +73,10 @@ Hi! I'm **Yash Mehta**, a passionate Full Stack Developer with a flair for clean
 
 ---
 
-## 🎨 3D & Interactive Visuals
+## 🌐 3D Contribution Globe
 
 <p align="center">
-  <img src="https://github.com/yashmehta2004/yashmehta2004/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
+  <a href="https://github-contributions.vercel.app/api/yashmehta2004"><img src="https://github-contributions.vercel.app/api/yashmehta2004" alt="3D Contribution Globe" /></a>
 </p>
 
 ---
@@ -94,4 +91,3 @@ Hi! I'm **Yash Mehta**, a passionate Full Stack Developer with a flair for clean
 
 > ⚙️ *"Code. Contribute. Connect."*  
 > Let’s **build the future** together.
-
