@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,solidity,js,java,c,express,tailwind,git,firebase,vercel" /><br/>
   💻 Full Stack Developer | 🧠 DSA Enthusiast | 🌐 Blockchain Explorer | 🎯 Problem Solver <br/>
   <em>Crafting impact across Web2 & Web3 with modern tech</em>
 </p>
@@ -10,17 +11,15 @@
 ---
 
 ## 🧠 About Me
-
-Hi! I'm **Yash Mehta**, a passionate Full Stack Developer with a flair for clean UI, robust backend systems, and emerging Web3 tech.  
-Whether it's writing smart contracts or solving complex DSA problems — I enjoy making tech *simple and impactful*.
+Hi! I'm **Yash Mehta**, a passionate Full Stack Developer with a flair for clean UI, robust backend systems, and emerging Web3 tech. Whether it's writing smart contracts or solving complex DSA problems — I enjoy making tech *simple and impactful*.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,java,c,react,nextjs,nodejs,express,mongodb,firebase,solidity,html,css,tailwind,bootstrap,postman,git,github,vscode" />
-</p>
+</div>
 
 ---
 
@@ -48,9 +47,9 @@ Whether it's writing smart contracts or solving complex DSA problems — I enjoy
 
 | Project | Tech Stack | Description |
 |--------|-------------|-------------|
-| 🏗️ **CrowdFunding (Web3)** | `Solidity`, `Ethereum`, `React`, `Remix IDE` | A decentralized platform enabling transparent fundraising. |
-| 🍔 **QuickBite** | `React`, `Node`, `MongoDB` | Seamless food ordering app with real-time cart and orders. |
-| 🛒 **ShopCart-Ecommerce** | `MERN`, `Tailwind`, `Express` | Full-featured e-commerce site with admin and product controls. |
+| 🏗️ [**CrowdFunding (Web3)**](#) | `Solidity`, `Ethereum`, `React`, `Remix IDE` | A decentralized platform enabling transparent fundraising. |
+| 🍔 [**QuickBite**](#) | `React`, `Node`, `MongoDB` | Seamless food ordering app with real-time cart and orders. |
+| 🛒 [**ShopCart-Ecommerce**](#) | `MERN`, `Tailwind`, `Express` | Full-featured e-commerce site with admin and product controls. |
 
 ---
 
@@ -59,6 +58,8 @@ Whether it's writing smart contracts or solving complex DSA problems — I enjoy
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashmehta2004&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yashmehta2004&theme=tokyonight" height="180"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yashmehta2004&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -73,6 +74,16 @@ Whether it's writing smart contracts or solving complex DSA problems — I enjoy
 
 ---
 
+## 🎨 3D & Interactive Visuals
+
+<p align="center">
+  <img src="https://github.com/yashmehta2004/yashmehta2004/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
+</p>
+
+---
+
 ## ⚡ Fun Facts
 
 - 🎯 Logic meets creativity in everything I build  
@@ -81,5 +92,6 @@ Whether it's writing smart contracts or solving complex DSA problems — I enjoy
 
 ---
 
-> ✨ *"Code. Contribute. Connect."*  
+> ⚙️ *"Code. Contribute. Connect."*  
 > Let’s **build the future** together.
+
